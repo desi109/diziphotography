@@ -1,3 +1,3 @@
 #DIZIphotography - website with bootstrap
 
-![GitHub Logo](/images/logo.png)
+#### Check out my photography website at [a link](https://www.diziphotography.website)
